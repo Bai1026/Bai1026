@@ -1,7 +1,7 @@
 # :wave: Hello, I'm Tsung-Min Pai
 > I'm currently a **EE** junior student study at **National Taiwan University**.  
-<!-- > I'm currently working on the undergraduate research of wireless mobile network lab.  -->
 
+* :open_book: I'm currently learing machine learning and wireless and mobile network
 * 📱 My undergraduate research Lab: [wmnlab](http://wmnlab.ee.ntu.edu.tw/lab/index.html) 
 * 💌 My email: 1132abc30@gmail.com
 
