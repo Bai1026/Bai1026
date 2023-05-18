@@ -6,4 +6,4 @@
 * 📝 Is going to the summer internship program in IIS, Academia Sinica 
 * 💌 My email: 1132abc30@gmail.com
 
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bai1026&layout=compact&hide=HTML)
+> ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bai1026&layout=compact&hide=HTML)
