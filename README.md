@@ -1,4 +1,4 @@
-# :wave: Hello, I'm Tsung-Min Pai
+# 🤖 This is Tsung-Min Pai's Github
 > A dedicated **EE** junior student study at **National Taiwan University**.  
 
 * :open_book: I'm currently learing **machine learning** and **wireless and mobile network**.
