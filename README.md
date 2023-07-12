@@ -4,7 +4,7 @@
 * :open_book: I'm currently learing **machine learning** and **cybersecurity**.
 * 📱 My first undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
 * 🤖 My second undergraduate research Lab: [Speech Processing and Machine Learning Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php)
-* 📝 Currently having a summer internship in the lab lead by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica
+* 📝 Currently having a summer internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica
 * 💌 My email: b09602017@ntu.edu.tw
 
 <h3 align="left">Languages and Tools:</h3>
