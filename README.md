@@ -1,5 +1,5 @@
 # 🫡 This is Tsung-Min Pai's Github
-> A dedicated **EE** junior student study at **National Taiwan University**.  
+> A dedicated **EE** senior student study at **National Taiwan University**.  
 
 * :open_book: I'm currently learning the skills of **deep learning** and **cybersecurity**.
 * 📱 My first undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
