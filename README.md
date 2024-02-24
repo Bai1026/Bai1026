@@ -2,9 +2,9 @@
 > A dedicated **EE** senior student study at **National Taiwan University**.  
 
 * :open_book: I'm currently learning the skills of **deep learning** and **cybersecurity**.
-* 📱 My first undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
-* 🤖 My second undergraduate research Lab: [Speech Processing and Machine Learning Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php)
-* 📝 Currently having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica
+* 🤖 My current undergraduate research Lab: [Speech Processing and Machine Learning Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php)
+* 📱 My previous undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
+* 📝 Previously having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica for 8 months
 * 💌 My email: b09602017@ntu.edu.tw
 
 <h3 align="left">My Linkedin:</h3>
