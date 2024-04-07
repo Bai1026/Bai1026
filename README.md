@@ -1,7 +1,7 @@
 # 🫡 This is Tsung-Min Pai's Github
 > A dedicated **EE** senior student study at **National Taiwan University**.  
 
-* :open_book: I'm currently learning the skills of **deep learning** and **cybersecurity**.
+* :open_book: I'm currently learning the skills of **Foundation of Machine Learning** and **deep learning**.
 * 🤖 My current undergraduate research Lab: [Speech Processing and Machine Learning Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php)
 * 📱 My previous undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
 * 📝 Previously having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica for 8 months
