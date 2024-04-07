@@ -7,7 +7,7 @@
 * 📱 My previous undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
 * 📝 Previously having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica for 8 months
 * 📄 [My openreview profile](https://openreview.net/profile?id=~Tsung-Min_Pai1 )
-  - Currently 2 publications under reviewed.
+  - Currently 2 publications under review.
 * 💌 My email: b09602017@ntu.edu.tw
 
 <h3 align="left">My Linkedin:</h3>
