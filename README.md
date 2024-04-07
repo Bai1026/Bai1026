@@ -3,6 +3,7 @@
 
 * :open_book: I'm currently learning the skills of **Foundation of Machine Learning** and **deep learning**.
 * 🤖 My current undergraduate research Lab: [Speech Processing and Machine Learning Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php)
+* 🤖 My current undergraduate research Lab: [Robotic Learning Lab](https://www.ee.ntu.edu.tw/profile1.php?id=1090721)
 * 📱 My previous undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
 * 📝 Previously having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica for 8 months
 * 💌 My email: b09602017@ntu.edu.tw
