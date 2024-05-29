@@ -13,7 +13,7 @@
 
 <h3 align="left">My Linkedin:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tsung-min-pai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsung-min-pai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tsung-ming-pai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsung-min-pai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
