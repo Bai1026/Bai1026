@@ -7,8 +7,8 @@
 * 📱 My previous undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
 * 📝 Previously having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica for 8 months
 * 📄 [My openreview profile](https://openreview.net/profile?id=~Tsung-Min_Pai1 )
-  - Currently one paper under review of COLM: [Arxiv Link](https://arxiv.org/abs/2405.06373)
-  - Participating another paper for USENIX security 2024
+  - Published one paper on COLM: [Arxiv Link](https://arxiv.org/abs/2405.06373)
+  - Participated in another paper for USENIX security 2024
 * 💌 My email: b09602017@ntu.edu.tw
 
 <h3 align="left">My Linkedin:</h3>
