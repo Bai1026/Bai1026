@@ -10,6 +10,7 @@
   - Published one paper on COLM: [Arxiv Link](https://arxiv.org/abs/2405.06373)
   - Participated in another paper for USENIX security 2024
 * 💌 My email: b09602017@ntu.edu.tw
+* 📒 My Resume: [Link](https://github.com/Bai1026/Bai1026/blob/main/Resume_TSUNG_MIN__PAI.pdf)
 
 <h3 align="left">My Linkedin:</h3>
 <p align="left">
