@@ -3,14 +3,14 @@
 
 * :open_book: I'm currently learning the skills of **Foundation of Machine Learning** and **deep learning**.
 * 🤖 My current undergraduate research Lab: [Speech Processing and Machine Learning Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php)
-* 🤖 My current undergraduate research Lab: [Robot Learning Lab](https://nturll.netlify.app/about)
+* 🤖 My previous undergraduate research Lab: [Robot Learning Lab](https://nturll.netlify.app/about)
 * 📱 My previous undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
 * 📝 Previously having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica for 8 months
 * 📄 [My Google Scholar](https://scholar.google.com/citations?user=7Hq3tdcAAAAJ&hl=zh-TW)
   - [***LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play***](https://arxiv.org/abs/2405.06373) Published at COLM 2024
   - [***Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks***](https://arxiv.org/abs/2411.05361) Published at ICLR 2025
-
   - Participated in another paper for USENIX security 2024
+  
 * 💌 My email: b09602017@ntu.edu.tw
 * 📒 My Resume: [Link](https://github.com/Bai1026/Bai1026/blob/main/Resume_TSUNG_MIN__PAI.pdf)
 
