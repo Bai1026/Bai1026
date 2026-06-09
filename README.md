@@ -30,14 +30,14 @@ I'm a dedicated **Electrical Engineering** graduate at **National Taiwan Univers
 
 ### 📄 Publications
 
-**BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation**
-`EACL 2026 Oral` · [aclanthology.org/2026.eacl-long.369](https://aclanthology.org/2026.eacl-long.369/)
+[**BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation**](https://aclanthology.org/2026.eacl-long.369/)
+`EACL 2026, Oral`
 
-**LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play**
-`COLM 2024` · [arxiv.org/abs/2405.06373](https://arxiv.org/abs/2405.06373)
+[**Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks**](https://arxiv.org/abs/2411.05361)
+`ICLR 2025`
 
-**Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks**
-`ICLR 2025` · [arxiv.org/abs/2411.05361](https://arxiv.org/abs/2411.05361)
+[**LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play**](https://arxiv.org/abs/2405.06373)
+`COLM 2024`
 
 ---
 
