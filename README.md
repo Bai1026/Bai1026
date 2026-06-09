@@ -5,7 +5,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7Hq3tdcAAAAJ&hl=zh-TW)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsung-ming-pai/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:b09602017@ntu.edu.tw)
-[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=flat&logo=googledrive&logoColor=white)](https://github.com/Bai1026/Bai1026/blob/main/Resume_TSUNG_MIN__PAI.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=flat&logo=googledrive&logoColor=white)]([https://github.com/Bai1026/Bai1026/blob/main/Resume_TSUNG_MIN__PAI.pdf](https://github.com/Bai1026/Bai1026/blob/main/Tsung_Min_Pai_CV.pdf))
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=githubpages&logoColor=white)](https://bai1026.github.io/index.html)
 </div>
 
