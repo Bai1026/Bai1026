@@ -1,24 +1,56 @@
-# 🫡 This is Tsung-Min Pai's Github
-> A dedicated **EE** senior student study at **National Taiwan University**.  
+<div align="center">
 
-* :open_book: I'm currently learning the skills of **Foundation of Machine Learning** and **deep learning**.
-* 🤖 My current undergraduate research Lab: [Speech Processing and Machine Learning Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php)
-* 🤖 My previous undergraduate research Lab: [Robot Learning Lab](https://nturll.netlify.app/about)
-* 📱 My previous undergraduate research Lab: [Wireless and Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html)
-* 📝 Previously having an internship in the lab led by [Dr. Meng Chang Chen](https://homepage.iis.sinica.edu.tw/pages/mcc/) in IIS, Academia Sinica for 8 months
-* 📄 [My Google Scholar](https://scholar.google.com/citations?user=7Hq3tdcAAAAJ&hl=zh-TW)
-  - [***LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play***](https://arxiv.org/abs/2405.06373) Published at COLM 2024
-  - [***Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks***](https://arxiv.org/abs/2411.05361) Published at ICLR 2025
-  - Participated in another paper for USENIX security 2024
-  
-* 💌 My email: b09602017@ntu.edu.tw
-* 📒 My Resume: [Link](https://github.com/Bai1026/Bai1026/blob/main/Resume_TSUNG_MIN__PAI.pdf)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=160&section=header&text=Tsung-Min%20Pai&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=B.S.%20%40%20NTU%20EE%20%7C%20Incoming%20MS%20%40%20CMU%20ECE&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
 
-<h3 align="left">My Linkedin:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tsung-ming-pai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsung-min-pai" height="30" width="40" /></a>
-</p>
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7Hq3tdcAAAAJ&hl=zh-TW)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsung-ming-pai/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:b09602017@ntu.edu.tw)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=flat&logo=googledrive&logoColor=white)](https://github.com/Bai1026/Bai1026/blob/main/Resume_TSUNG_MIN__PAI.pdf)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.anaconda.com/download" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/></a> <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a> </p>
+</div>
 
+---
+
+### 👋 About Me
+
+I'm a dedicated **Electrical Engineering** graduate at **National Taiwan University**, currently focused on **LLM Applications** and **Machine Learning** research. My work spans spoken language models, LLM creativity, and wireless networking. I will be joining **Carnegie Mellon University** as an MS student in ECE.
+
+---
+
+### 🔬 Research & Experience
+
+| | Lab / Organization | Role |
+|---|---|---|
+| 🎙️ | [Speech Processing & ML Lab](https://speech.ee.ntu.edu.tw/~hylee/index.php) — NTU | Previous Undergraduate Researcher |
+| 🤖 | [Robot Learning Lab](https://nturll.netlify.app/about) — NTU | Previous Undergraduate Researcher |
+| 📡 | [Wireless & Mobile Network Lab](http://wmnlab.ee.ntu.edu.tw/lab/index.html) — NTU | Previous Undergraduate Researcher |
+| 🏛️ | [IIS, Academia Sinica](https://homepage.iis.sinica.edu.tw/pages/mcc/) — led by Dr. Meng Chang Chen | Research Intern |
+
+---
+
+### 📄 Publications
+
+**BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation**
+`EACL 2026 Oral` · [aclanthology.org/2026.eacl-long.369](https://aclanthology.org/2026.eacl-long.369/)
+
+**LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion Framework and Role-Play**
+`COLM 2024` · [arxiv.org/abs/2405.06373](https://arxiv.org/abs/2405.06373)
+
+**Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks**
+`ICLR 2025` · [arxiv.org/abs/2411.05361](https://arxiv.org/abs/2411.05361)
+
+---
+
+### 🛠️ Skills & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,cpp,go,linux,docker,azure,html,css,matlab,anaconda&perline=11)](https://skillicons.dev)
+
+`scikit-learn` &nbsp; `NumPy` &nbsp; `Pandas` &nbsp; `Matplotlib` &nbsp; `Selenium`
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
+
+</div>
