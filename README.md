@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=160&section=header&text=Tsung-Min%20Pai&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MS%20ECE%20%40%20Carnegie%20Mellon%20%7C%20LLM%20Applications%20and%20Agents&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=160&section=header&text=Tsung-Min%20Pai&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=M.S.%20ECE%20%40%20Carnegie%20Mellon%20%7C%20LLM%20Applications%20and%20Agents&descAlignY=58&descSize=16&descColor=ffffff" width="100%"/>
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7Hq3tdcAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsung-ming-pai/)
@@ -14,7 +14,7 @@
 
 ### About Me
 
-MS student in **Electrical and Computer Engineering** at **Carnegie Mellon University**, graduating December 2027. Previously B.S. in Electrical Engineering at **National Taiwan University**.
+M.S. student in **Electrical and Computer Engineering** at **Carnegie Mellon University**, graduating December 2027. Previously B.S. in Electrical Engineering at **National Taiwan University**.
 
 I work on **LLM applications** — agents, retrieval, and evaluation — with a bias toward systems that survive production constraints rather than only benchmarks. First author on **BILLY (EACL 2026, Oral)**; co-author on **Dynamic-SUPERB Phase-2 (ICLR 2025)** and **LLM Discussion (COLM 2024)**.
 
